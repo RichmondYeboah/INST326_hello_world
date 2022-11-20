@@ -1,5 +1,6 @@
 # Intro to Git
 # Richmond Yeboah
+# INST326 - Bill Farmer
 
 students = ["Bryan", "Richmond", "Hannah ", "Joseph", "Sierra"]
 
